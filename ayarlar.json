@@ -1,6 +1,6 @@
 {
-  "prefix": "",
-  "sahip": ["", ""],
+  "prefix": "<PREFIX>",
+  "sahip": ["<OWNER ID>"],
   "embedColor": "#A7FE99",
-  "token": " "
+  "token": "<BOT TOKEN>"
 }
