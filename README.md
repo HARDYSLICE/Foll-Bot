@@ -11,12 +11,15 @@ To self-host it:
 3. Go to ayarlar.json file, there add your bot's TOKEN, PREFIX, OWNER'S ID
 4. Install all the packages and dependencies with `npm i`
 ```
-**
+
 komutlar = commands folder
+
 ayarlar = config file
+
 server = main file
+
 sahip = OWNERS 
-**
+
 
 
 ADD FOLL: [CLICK HERE TO ADD](https://discord.com/api/oauth2/authorize?client_id=849592731226341387&permissions=3490577617&scope=bot)
